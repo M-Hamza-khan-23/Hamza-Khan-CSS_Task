@@ -1,0 +1,164 @@
+
+.exercise{
+    color: black;
+}
+.E1{
+    background-color: yellow;
+    border: 2px black solid;
+    width: 23vw;
+    height: 30vh;
+}
+.HE1{
+    color: red;
+}
+.PE1{
+    text-align: right;
+    color: black;
+}
+.APE1{
+    color: blue;
+    font-size: 21px;
+}
+.E2{
+    background-color: pink;
+    width: 23vw;
+    height: 30vh;
+    border: none;
+}
+.HE2{
+    color: red;
+    text-align: center;
+}
+.p2{
+    color: blue;
+}
+.E3{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRsl1rfmN-vymsf0IrmU-mCUtcD7VJxu7itA&usqp=CAU);
+    width: 23vw;
+    height: 30vh;
+}
+.E4{
+    width: 73vw;
+    height: 90vh;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR718PooLomdDaKrXM1LVBsWxKgbXcNQQygvw&usqp=CAU);
+    background-repeat: repeat;
+}
+.E5{
+    width: 23vw;
+    height: 30vh;
+    border: 2px solid black;
+    padding: 10px;
+}
+.PE51{
+    color: black;
+    background-color: gray;
+}
+.PE52{
+    color: black;
+    background-color: blue;
+}
+.PE53{
+    color: black;
+    background-color: yellow;
+}
+.E6{
+    border: 4px solid black;
+    width: 43vw;
+    height: 30vh;
+}
+.p6{
+    color: black;
+    text-decoration: overline;
+}
+.h6{
+    text-decoration: line-through;
+}
+.h62{
+    text-decoration: underline;
+}
+.p62{
+    color: black;
+}
+.link{
+    text-decoration: none;
+}
+.E7{
+    background-color: skyblue;
+    padding: 25px 50px 75px 100px;
+    border: 2px solid black;
+    width: 53vw;
+    height: 20vh;
+}
+.E8{
+    padding: 50px;
+    margin: 20px;
+    border: 15px solid green;
+    background-color: lightgrey;
+    width: 23vw;
+    height: 30vh;
+}
+
+.Google{
+    border: 1px solid black;
+}
+.container{
+    position: relative;
+    bottom: 37px;
+}
+.image{
+    margin-top: 50px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWua9b5y0Sa4Obc0Sb-WPQiG7JUny5UvoNQw&usqp=CAU);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+    align-items: center center;
+    text-align: center center;
+    height: 200px;
+    width: 800px;
+}
+.searchbar{
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center center;
+    height: 120px;
+    width: 700px;
+    
+}
+input{
+    border-color: lightgray;
+    border-radius: 28px;
+    height: 43px;
+    width: 858px;
+    text-align: center;
+}
+.searchicon{
+    position: relative;
+height: 35px;
+right: -47px;
+bottom: -7px;
+}
+.mic{
+    position: relative;
+height: 25px;
+right: 77px;
+bottom: -11px;
+}
+.cam{
+    position: relative;
+height: 20px;
+bottom: -12px;
+right: 79px;
+}
+footer{
+    display: inline;
+}
+a.hover{
+    color: lightgrey;
+}
+
+
+
+
